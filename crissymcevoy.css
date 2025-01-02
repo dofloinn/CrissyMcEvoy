@@ -138,6 +138,12 @@ footer
     object-fit: cover;
 }
 
+.tall {
+    justify-self: center;
+    align-self: center;
+    width: fit-content;
+}
+
 .gal-title
 {
     color: var(--tertiary);
